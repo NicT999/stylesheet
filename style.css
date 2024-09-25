@@ -1,0 +1,5 @@
+@import url("https://fonts.google.com/share?selection.family=Indie+Flower");
+
+:host{
+  --fonts-default: 'Indie Flower', cursive;
+}
